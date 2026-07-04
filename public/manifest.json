@@ -1,0 +1,21 @@
+{
+  "name": "CareLink Guardian Portal",
+  "short_name": "CareLink",
+  "description": "Senior care management, guardian visibility, caregiver workflows, and clinical reporting.",
+  "theme_color": "#EC4899",
+  "background_color": "#F8FAFC",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo/logo-mark.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
